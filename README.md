@@ -1,0 +1,1 @@
+Refer Requirements folder to read RAD of the project
