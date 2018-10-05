@@ -6,3 +6,6 @@ Increment 2 Folder
 * Use Case Diagram folder contain use case diagram
 * Object Model folder contain class diagram
 * Skywalker_Airlines_RAD.docx is our updated RAD with all models
+
+Framework - Vue.js and React
+Design - Material Design (material.io)
