@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">SkywalkerAirlines</string>
+    <string name="app_name">Skywalker Airlines</string>
+    <String name="login_button">Login</String>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
 </resources>
