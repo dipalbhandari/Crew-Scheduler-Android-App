@@ -8,6 +8,7 @@
     <color name="colorOrangeSecondaryDark">#CBD83801</color>>
     <color name="colorBlackPrimary">#252729</color>>
     <color name="colorBlackSecondary">#2D3032</color>>
+    <color name="colorTransparent">#00ffffff</color>>
 
 
 </resources>
