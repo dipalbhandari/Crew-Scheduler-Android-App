@@ -9,20 +9,21 @@ Increment 2 Folder
 
 Increment 3 Folder
 
-1. Change in model.
-2. System Design Document.
+* Change in model.
+* System Design Document.
 
 Increment 4 Folder
 
-1. "app" folder contains the application source code.
-2. It contain the Object Design Document.
-3. Model folder contain every model used in document.
-4. In source code there's not much implementation but we are almost done with
+* "app" folder contains the application source code.
+* It contain the Object Design Document.
+* Requirement 2 folder contains the latest document.
+* Model folder contain every model used in document.
+* In source code there's not much implementation but we are almost done with
 our layouts(UI layout) for the phone application as we planned.
 
 Tools - Android studio, Firestore, Google maps API and Firebase Authentication 
 
-Instruction to run the application
+Instructions to run the application
 -------------------
 
 1. Install Android studio
