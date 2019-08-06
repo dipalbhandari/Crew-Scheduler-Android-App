@@ -29,7 +29,7 @@ Instructions to run the application
 1. Install Android studio
 2. Pull the respository
 3. Open Android studio 
-4. open folder CS_361/app
+4. open folder Crew-Scheduler-Android-App
 5. Build the project in your phone and use it !!!
 
 
